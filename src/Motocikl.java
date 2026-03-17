@@ -4,7 +4,7 @@ public class Motocikl extends Vozilo{
 
     public Motocikl(String registarskiBroj, String marka, int godinaProizvodnje, String tipMotora) {
         super(registarskiBroj, marka, godinaProizvodnje);
-        this.tipMotora = tipMotora;
+        setTipMotora(tipMotora);
     }
 
     @Override
