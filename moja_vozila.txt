@@ -1,0 +1,3 @@
+Registracija: ZG1234AA, marka: Kia, godina proizvodnje: 2026
+Registracija: AS123AA, marka: nekamarka, godina proizvodnje: 2024, broj vrata: 8
+Registracija: NN123NA, marka: nekiMotorMarka, godina proizvodnje: 1999, tip motora: jaki
